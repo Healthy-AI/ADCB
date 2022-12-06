@@ -1,6 +1,6 @@
 # ADCB
 
-This repo the environment proposed in the paper ["ADCB: An Alzheimer’s disease simulator for benchmarking
+This repo is the simulator and environment proposed in the paper ["ADCB: An Alzheimer’s disease simulator for benchmarking
 observational estimators of causal effects"](https://proceedings.mlr.press/v174/kinyanjui22a/kinyanjui22a.pdf) from the Conference on Health, Inference, and Learning (CHIL) 2022
 
 
